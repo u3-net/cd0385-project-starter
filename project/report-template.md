@@ -34,6 +34,8 @@ TODO: Add your explanation
 TODO: Replace the image below with your own.
 
 ![model_train_score.png](img/model_train_score.png)
+![image](https://github.com/u3-net/cd0385-project-starter/assets/92238267/4c1dcd15-ca14-403d-adb2-e2a181965038)
+
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
