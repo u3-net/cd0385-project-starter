@@ -34,17 +34,14 @@ The scores obtained from the improved model are considerably better compared to 
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
+![image](https://github.com/u3-net/cd0385-project-starter/assets/92238267/4ec9d2d0-7cbc-415e-9ab9-ded2546ca15a)
 
 
-![model_train_score.png](img/model_train_score.png)
-![image](https://github.com/u3-net/cd0385-project-starter/assets/92238267/4c1dcd15-ca14-403d-adb2-e2a181965038)
 
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
-
-![model_test_score.png](img/model_test_score.png)
+![image](https://github.com/u3-net/cd0385-project-starter/assets/92238267/733115c8-894e-497f-934b-fdef0e0dcf57)
 
 ## Summary
 TODO: Add your explanation
