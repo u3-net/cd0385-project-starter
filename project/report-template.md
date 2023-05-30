@@ -44,7 +44,7 @@ The scores obtained from the improved model are considerably better compared to 
 ![image](https://github.com/u3-net/cd0385-project-starter/assets/92238267/733115c8-894e-497f-934b-fdef0e0dcf57)
 
 ## Summary
-TODO: Add your explanation
+this project highlights the importance of three key steps in the machine learning workflow: data cleansing, feature engineering, and hyperparameter optimization. These steps are crucial in achieving the highest level of accuracy in model predictions. Additionally, the project showcases the value of autoML, which allows for the rapid creation of baselines and prototyping of deep learning and classical machine learning solutions. With just a few lines of code, autoML can effectively handle raw data, making it a valuable tool in the data science process.
 
 
 
