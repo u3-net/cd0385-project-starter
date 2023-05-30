@@ -24,16 +24,13 @@ The scores obtained from the improved model are considerably better compared to 
  I believe it is essential to allocate more time towards data cleansing and feature engineering. These steps involve carefully preparing the data and extracting meaningful information that can enhance the model's predictive capabilities. Additionally, hyperparameter tuning plays a crucial role in optimizing the model's performance. Autogluon provides presets that are specifically designed to automatically search for the best hyperparameters, resulting in improved outcomes. By combining meticulous data preprocessing, effective feature engineering, and leveraging Autogluon's hyperparameter optimization capabilities, we can strive for superior model performance.
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-|model|time_limit|hpo2|hpo3|score|
+|model|time_limit|num_bag_folds|num_trials|score|
 |--|--|--|--|--|
-|initial|?|?|?|?|
-|add_features|?|?|?|?|
-|hpo|?|?|?|?|
+|initial|	600	|8|1|1.80659|
+|add_features|	600	|8|1|0.53929|
+|hpo|1200|16|5|0.64194|
 
-model	time_limit	num_bag_folds	num_trials	score
-0	initial	600	8	1	1.80659
-1	add_features	600	8	1	0.53929
-2	hpo	1200	16	5	0.64194
+
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
